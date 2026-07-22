@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-07-22T07:14:09",
+  "day": "2026-07-22",
+  "day_root": "085907ede995778d3bb0d62cceced9c36d5b0026c9b726a21834877ee6f80a9d",
+  "hash_count": 3,
+  "hashes": [
+    "09204ffcde69a72aa2307cd493363bd6cd90e008e6e9351cef439b3952db523e",
+    "36f31e34f8ee5aec9ccf55575446673e4be1afcc7edf198f61d9557097ede5ad",
+    "4ed254845c4c1706081dc538829b55abf8c173e32d451d1406db42caf64194f8"
+  ],
+  "prev_root": "94ffd3f3d2bbf9f5a6fef9f0d94d5b28923c2ac89b04b347c4e93249c393d2a9"
+}
